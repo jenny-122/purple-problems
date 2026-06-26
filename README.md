@@ -1,6 +1,6 @@
 # terminal-glow-up
 
-## backstory
+## what are you talking about?
 
 this is about the time i got tricked into using my terminal.
 i told spike i would NEVER touch a terminal. it just wasn't for me.
