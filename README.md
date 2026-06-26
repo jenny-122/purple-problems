@@ -12,7 +12,7 @@ ah, the bait was too strong.
 
 but no yellow. yellow hurts.
 
-## what's in here
+## what's in here?
 
 - `wezterm.lua` — the actual config that runs
 - `curr_config.txt` — the "no yellow" experiment (25+ themes, programmatic color swaps)
@@ -21,7 +21,7 @@ but no yellow. yellow hurts.
 - `themes/` — theme files + conversion scripts
 - everything else — scratch notes i left myself and never cleaned up
 
-## where it landed
+## get to the point!
 
 7 custom base2tone/base4tone themes, vim-style pane nav, theme cycling with
 alt+shift+a. no more yellow.
